@@ -1,1 +1,0 @@
-cc -o yourprog yourprog.c libstatic.a
