@@ -1,0 +1,2 @@
+ft_print_alphabet.c: Error!
+Error: SPACE_REPLACE_TAB    (line:  17, col:   9):	Found space when expecting tab
